@@ -1,0 +1,5 @@
+{
+  "name": "Volley Point Table",
+  "description": "A dynamic volleyball point table application that allows you to add teams, record match results, and view a ranked leaderboard. All data is persistently stored in your browser's local storage, ensuring your scoreboard is saved between sessions.",
+  "requestFramePermissions": []
+}
